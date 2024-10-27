@@ -674,7 +674,7 @@
       </Placemark>
       <Placemark>
         <name>(1B) - Trans Jogja</name>
-        <description><![CDATA[Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte Janti Utara > Halte Mall Sahid J-Walk > TPB Ruko Babarsari > TPB Kledokan > Halte RS Hardjolukito > TPB Wonocatur > TPB BKPM DIY > Halte Gembira Loka > Halte SGM 1 > TPB Gajah Makam Ksmn Kota > TPB Taman Makam Pahlawan > Halte Museum Biologi > Halte Senopati 1 > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudirman (Santika) >  Halte Dr. YAP > TPB SMP N 1 Yogyakarta >  TPB Kosudgama > TPB UNY (Colombo) > TPB UNY Gejayan > TPB Santren > Halte Terminal Condong Catur > TPB Susteran Novisiat > Halte Sanata Dharma > TPB Pasar Demangan > Halte De Brito > Halte Ambarukmo > Halte Janti Bawah Flyover > Halte Janti Utara > Halte Alfa (Transmart) > Halte Maguwo > Halte Bandara Adisutjipto]]></description>
+        <description><![CDATA[Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte Janti Utara > Halte Mall Sahid J-Walk > TPB Ruko Babarsari > TPB Kledokan > Halte RS Hardjolukito > TPB Wonocatur > TPB BKPM DIY > Halte Gembira Loka > Halte SGM 1 > TPB Makam Gajah 2 > TPB Taman Makam Pahlawan > Halte Museum Biologi > Halte Senopati 1 > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudirman (Santika) >  Halte Dr. YAP > TPB SMP N 1 Yogyakarta >  TPB Kosudgama > TPB UNY (Colombo) > TPB UNY Gejayan > TPB Santren > Halte Terminal Condong Catur > TPB Susteran Novisiat > Halte Sanata Dharma > TPB Pasar Demangan > Halte De Brito > Halte Ambarukmo > Halte Janti Bawah Flyover > Halte Janti Utara > Halte Alfa (Transmart) > Halte Maguwo > Halte Bandara Adisutjipto]]></description>
         <styleUrl>#line-F4A2A6-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1751,7 +1751,7 @@
       </Placemark>
       <Placemark>
         <name>(3B) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Giwangan > TPB Pasar Giwangan 1 > TPB Gudang SGM 1 > TPB Tegal Turi 2 > Halte Nitikan > TPB Widya Wiwaha 2 > TPB PA Muhammadiyah > Halte Museum Perjuangan > TPB Jokteng Wetan > TPB Pasar Gading > Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudirman (Santika) > Halte Dr. YAP > TPB SMP N 1 Yogyakarta >  TPB Vokasi UGM 2 > TPB FKG UGM 2 > Halte RS Sardjito 2 > TPB MM UGM > TPB Hotel Vidi > TPB Kentungan > Halte Terminal Condong Catur > TPB BTN > TPB RS JIH > Halte Stikes Guna Bangsa > TPB Polsek Depok Timur 1 > TPB  Instiper 1 > TPB SMK Tajem > TPB Binamarga > Halte Maguwo > Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte RS Hardjolukito > TPB Wonocatur > TPB BKPM DIY > Halte Banguntapan 2 > TPB Pilar 2 > TPB Purnomo Mebel > TPB Pegadaian > TPB Lapangan Karang 2 > TPB Tegal Gendu 2 > TPB Gudang SGM 2 > TPB Pasar Giwangan 2 > Halte Terminal Giwangan]]></description>
+        <description><![CDATA[Halte Terminal Giwangan > TPB Pasar Giwangan 1 > TPB Gudang SGM 1 > TPB Tegal Turi 2 > Halte Nitikan > TPB Widya Wiwaha 2 > TPB PA Muhammadiyah > Halte Museum Perjuangan > TPB Jokteng Wetan > TPB Pasar Gading > Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudirman (Santika) > Halte Dr. YAP > TPB SMP N 1 Yogyakarta >  TPB Vokasi UGM 2 > TPB FKG UGM 2 > Halte RS Sardjito 2 > TPB MM UGM > TPB Hotel Vidi > TPB Kentungan > Halte Terminal Condong Catur > TPB BTN > TPB RS JIH > Halte Stikes Guna Bangsa > TPB Polsek Depok Timur 1 > TPB Instiper 1 > TPB SMK Tajem > TPB Binamarga > Halte Maguwo > Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte RS Hardjolukito > TPB Wonocatur > TPB BKPM DIY > Halte Banguntapan 2 > TPB Pilar 2 > TPB Purnomo Mebel > TPB Pegadaian > TPB Lapangan Karang 2 > TPB Tegal Gendu 2 > TPB Gudang SGM 2 > TPB Pasar Giwangan 2 > Halte Terminal Giwangan]]></description>
         <styleUrl>#line-FFAE66-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -2725,7 +2725,7 @@
       </Placemark>
       <Placemark>
         <name>(5B) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Jombor > Halte Monjali 1 > TPB PDAM Monjali > TPB Teknik UGM 1 > Halte RS Sardjito 1 >  TPB FKG UGM 1 > TPB Hotel Vidi > TPB Kentungan > Halte Terminal Condong Catur > TPB  BTN > TPB RS JIH > Halte Stikes Guna Bangsa > TPB STIE YKPN 2 > TPB SMP N 4 Depok > TPB Dishub DIY > Halte Alfa (Transmart) > Halte Maguwo > Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte Janti Bawah Flyover > Halte Jogja Bisnis > Halte Gedung Wanita > Halte Urip Sumoharjo > Halte RS Bethesda > Halte Kridosono > Halte Dr. YAP > TPB SMP N 1 Yogyakarta > TPB SMP N 6 Yogyakarta > TPB Karangwaru 2 > TPB Grand Pacific > TPB Jogja City Mall 2 > TPB MMTC > Halte Terminal Jombor]]></description>
+        <description><![CDATA[Halte Terminal Jombor > Halte Monjali 1 > TPB PDAM Monjali > TPB Teknik UGM 1 > Halte RS Sardjito 1 >  TPB FKG UGM 1 > TPB Hotel Vidi > TPB Kentungan > Halte Terminal Condong Catur > TPB BTN > TPB RS JIH > Halte Stikes Guna Bangsa > TPB STIE YKPN 2 > TPB SMP N 4 Depok > TPB Dishub DIY > Halte Alfa (Transmart) > Halte Maguwo > Halte Bandara Adisutjipto > TPB Hyundai > Halte Jayakarta > Halte Janti Bawah Flyover > Halte Jogja Bisnis > Halte Gedung Wanita > Halte Urip Sumoharjo > Halte RS Bethesda > Halte Kridosono > Halte Dr. YAP > TPB SMP N 1 Yogyakarta > TPB SMP N 6 Yogyakarta > TPB Karangwaru 2 > TPB Grand Pacific > TPB Jogja City Mall 2 > TPB MMTC > Halte Terminal Jombor]]></description>
         <styleUrl>#line-C3A0DD-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -2967,7 +2967,7 @@
       </Placemark>
       <Placemark>
         <name>(6A) - Trans Jogja</name>
-        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB Pelem Gurih 1 > TPB Bayeman 2 > TPB UPY >TPB Muallimin 1 >  TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo >  TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2 > TPB Pasar Legi 1 > TPB SMK Seni 1 > TPB Madukismo 1 > TPB Simpang Diklat DIY 1 > TPB Lapangan Kasihan 1 > TPB Tamantirto 2 > TPB UMY 1 > TPB AMIK BSI >  Halte Gamping]]></description>
+        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB Pelem Gurih 1 > TPB Bayeman 2 > TPB UPY >TPB Muallimin 1 >  TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo >  TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2 > TPB Pasar Legi 1 > TPB SMK Seni 1 > TPB Madukismo 1 > TPB Simpang Diklat DIY 1 > TPB Lapangan Kasihan 1 > TPB Tamantirto 2 > TPB UMY 1 > TPB AMIK BSI >  Halte Gamping]]></description>
         <styleUrl>#line-5C4238-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3156,7 +3156,7 @@
       </Placemark>
       <Placemark>
         <name>(6B) - Trans Jogja</name>
-        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB UMY 2 > TPB Tamantirto 1 > TPB Universitas Alma Ata > TPB Lapangan Kasihan 2 > TPB Simpang Diklat DIY 2 > TPB Madukismo 2 > TPB SMK Seni 2 > TPB Pasar Legi 2 > TPB Muallimin 1 > TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) >  Halte Senopati 2 > TPB Suryotomo >  TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2 > TPB Superindo Sonosewu > TPB Bayeman 1 > TPB Pelem Gurih > Halte Gamping]]></description>
+        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB UMY 2 > TPB Tamantirto 1 > TPB Universitas Alma Ata > TPB Lapangan Kasihan 2 > TPB Simpang Diklat DIY 2 > TPB Madukismo 2 > TPB SMK Seni 2 > TPB Pasar Legi 2 > TPB Muallimin 1 > TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) >  Halte Senopati 2 > TPB Suryotomo >  TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2 > TPB Superindo Sonosewu > TPB Bayeman 1 > TPB Pelem Gurih 2 > Halte Gamping]]></description>
         <styleUrl>#line-A29691-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3345,7 +3345,7 @@
       </Placemark>
       <Placemark>
         <name>(7) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Giwangan > TPB Pasar Giwangan 1 > TPB Gudang SGM 1 > Halte SMK Muhammadiyah 3 > TPB Jl. Pramuka > Halte RSI Hidayatullah > TPB Masjid Panembahan > TPB Ki Penjawi 1 > TPB Wisma Martha 1 >TPB Ketandan > TPB Blok O > Halte Janti Utara > Halte Mall Sahid J-Walk > TPB Ruko Babarsari > TPB Kledokan > Halte RS Harrdjolukito > TPB Polsek Banguntapan > TPB Wisma Martha 2 > TPB Ki Penjawi 2 > TPB SD Rejowinangun > TPB Veteran > Halte XT Square > TPB UAD > TPB Gudang SGM 2 > TPB Pasar Giwangan 2 > Halte Terminal Giwangan]]></description>
+        <description><![CDATA[Halte Terminal Giwangan > TPB Pasar Giwangan 1 > TPB Gudang SGM 1 > Halte SMK Muhammadiyah 3 > TPB Pramuka > Halte RSI Hidayatullah > TPB Masjid Panembahan > TPB Ki Penjawi 1 > TPB Wisma Martha 1 >TPB Ketandan > TPB Blok O > Halte Janti Utara > Halte Mall Sahid J-Walk > TPB Ruko Babarsari > TPB Kledokan > Halte RS Hardjolukito > TPB Polsek Banguntapan > TPB Wisma Martha 2 > TPB Ki Penjawi 2 > TPB SD Rejowinangun > TPB Veteran > Halte XT Square > TPB UAD > TPB Gudang SGM 2 > TPB Pasar Giwangan 2 > Halte Terminal Giwangan]]></description>
         <styleUrl>#line-9C1B14-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3515,7 +3515,7 @@
       </Placemark>
       <Placemark>
         <name>(8) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Jombor > TPB UTY Ringroad Utara 2 > TPB Simpang Kronggahan > TPB Westlake 2 > TPB RS Queen Latifa > TPB Perumahan Nogotirto >  TPB Demak Ijo 1 > TPB Giant Godean > TPB Mirota Godean 1 >  Halte Mangkubumi > TPB Grand Zuri > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB SPBU Dukuh 2 > TPB Pasty 2 > TPB ATK Yogyakarta > TPB Salakan Baru > TPB Jogokaryan 1 > TPB Jokteng Wetan > TPB Pasar Gading >  Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Mirota Godean 2 > TPB Dentes Ruko Godean > TPB Demak Ijo 2 > TPB Universitas Aisyiyah > TPB Westlake 1 > TPB UTY Ringroad Utara 1 > Halte Terminal Jombor]]></description>
+        <description><![CDATA[Halte Terminal Jombor > TPB UTY Ringroad Utara 2 > TPB Simpang Kronggahan > TPB Westlake 2 > TPB RS Queen Latifa > TPB Perumahan Nogotirto >  TPB Demak Ijo 1 > TPB Giant Godean > TPB Mirota Godean 1 >  Halte Mangkubumi > TPB Grand Zuri > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB SPBU Dukuh 2 > TPB Pasty 2 > TPB ATK Yogyakarta > TPB Salakan Baru > TPB Jogokaryan 1 > TPB Jokteng Wetan > TPB Pasar Gading >  Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk > TPB Sosrowijayan > TPB Jlagran > TPB Mirota Godean 2 > TPB Dentes Ruko Godean > TPB Demak Ijo 2 > TPB Universitas Aisyiyah > TPB Westlake 1 > TPB UTY Ringroad Utara 1 > Halte Terminal Jombor]]></description>
         <styleUrl>#line-005FA5-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3758,7 +3758,7 @@
       </Placemark>
       <Placemark>
         <name>(9) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Giwangan >TPB UAD Ringroad Selatan 2 > TPB Simpang Wojo > TPB Astra Isuzu > TPB Pasty 1 > TPB SPBU Dukuh 1 > TPB Kampus UPP 2 FIP UNY > TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > TPB Hotel Utara > TPB Karangwaru 2 > TPB Grand Pacific > TPB Jogja City Mall 2 > TPB MMTC >  Halte Terminal Jombor > TPB Jogja City Mall 1 > TPB TVRI > TPB Karangwaru 1 > TPB Halte Samsat > TPB Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon > TPB Plengkung Gading > TPB Jogokaryan 2 > TPB UAD Ringroad Selatan 1 > Halte Terminal Giwangan]]></description>
+        <description><![CDATA[Halte Terminal Giwangan >TPB UAD Ringroad Selatan 2 > TPB Simpang Wojo > TPB Astra Isuzu > TPB Pasty 1 > TPB SPBU Dukuh 1 > TPB Kampus UPP 2 FIP UNY > TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > TPB Hotel Utara > TPB Karangwaru 2 > TPB Grand Pacific > TPB Jogja City Mall 2 > TPB MMTC >  Halte Terminal Jombor > TPB Jogja City Mall 1 > TPB TVRI > TPB Karangwaru 1 > Halte Samsat > TPB Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon > TPB Plengkung Gading > TPB Jogokaryan 2 > TPB UAD Ringroad Selatan 1 > Halte Terminal Giwangan]]></description>
         <styleUrl>#line-40B7B6-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3994,7 +3994,7 @@
       </Placemark>
       <Placemark>
         <name>(10) - Trans Jogja</name>
-        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB Pelem Gurih 1 > TPB Bayeman 2 > TanpaPlang Museum Bahari 2 > TPB SMP Muhammadiyah 3 1 > TPB Muallimin 1 >  TPB Tejokusuman > Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo> TPB Teras 2 > Halte Kridosono > TPB Lempuyangan 1 > TPB Stasiun Lempuyangan > TPB Tarumartani 1 > TPB TNI AL 2 > TPB SMK N 5 > Halte SGM 1 > TPB TNI AL 1 > TPB Tarumartani 2 > TPB SMP Kanisius 2 > TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 ( Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2 > TanpaPlang SMP Muhammadiyah 3 2 > TPB Museum Bahari 1 > TPB Bayeman 1 > TPB Pelem Gurih 2 >  Halte Gamping]]></description>
+        <description><![CDATA[Halte Gamping > TPB RS PKU Muhammadiyah Gamping > TPB Pelem Gurih 1 > TPB Bayeman 2 > TanpaPlang Museum Bahari 2 > TPB SMP Muhammadiyah 3 1 > TPB Muallimin 1 >  TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo> TPB Teras 2 > Halte Kridosono > TPB Lempuyangan 1 > TPB Stasiun Lempuyangan > TPB Tarumartani 1 > TPB TNI AL 2 > TPB SMK N 5 > Halte SGM 1 > TPB TNI AL 1 > TPB Tarumartani 2 > TPB SMP Kanisius 2 > TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2 > TanpaPlang SMP Muhammadiyah 3 2 > TPB Museum Bahari 1 > TPB Bayeman 1 > TPB Pelem Gurih 2 >  Halte Gamping]]></description>
         <styleUrl>#line-F8C530-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4248,7 +4248,7 @@
       </Placemark>
       <Placemark>
         <name>(11) - Trans Jogja</name>
-        <description><![CDATA[Halte Terminal Giwangan > TPB UAD Ringroad Selatan 2 > TPB Pasar Telo 1 > TPB Jogokaryan 1 > TPB Hotel Pramesthi > TPB Ruba Graha 1 > Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudriman (Santika) > Halte Dr. YAP > TPB SMP N 1 Yogyakarta > TPB Panti Rapih > Halte Cik Di Tiro > Halte Kridosono > TPB Kotabaru > Halte Sudirman (Bumiputera) > TPB Diponegoro > Halte Samsat > TPB Letjen Suprapto >  Halte Ngabean > TPB Jokteng Kulon > TPB Ruba Graha 2 > TPB Jogokaryan 2 > TPB Pasar Telo 2 > TPB UAD Ringroad Selatan 1 > Halte Terminal Giwangan]]></description>
+        <description><![CDATA[Halte Terminal Giwangan > TPB UAD Ringroad Selatan 2 > TPB Pasar Telo 1 > TPB Jogokaryan 1 > TPB Hotel Pramesthi > TPB Ruba Graha 1 > Halte SMA N 7 > TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Perpusda > Halte Tentara Pelajar (SMP N 14) > Halte Sudirman (Santika) > Halte Dr. YAP > TPB SMP N 1 Yogyakarta > TPB Panti Rapih > Halte Cik Di Tiro > Halte Kridosono > TPB Kotabaru > Halte Sudirman (Bumiputera) > TPB Diponegoro > Halte Samsat > TPB Letjen Suprapto >  Halte Ngabean > TPB Jokteng Kulon > TPB Ruba Graha 2 > TPB Jogokaryan 2 > TPB Pasar Telo 2 > TPB UAD Ringroad Selatan 1 > Halte Terminal Giwangan]]></description>
         <styleUrl>#line-C1D01B-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4522,7 +4522,7 @@
       </Placemark>
       <Placemark>
         <name>(12) - Teman Bus</name>
-        <description><![CDATA[Halte Terminal Condong Catur >TanpaPlang Super Dazzle Gejayan > TPB Susteran Novisiat > Halte Sanata Dharma > Halte Samirono > Halte Panti Rapih > TPB Vokasi UGM 2 > TPB FKG UGM 2 > Halte RS Sardjito 1 > TPB MM UGM > TPB Hotel Vidi > TPB Superindo Jakal 1 > TPB Pasar Kolombo 1 > TPB PLN Gardu Induk 1 > TPB Simpang Palem Raya 1 > TPB Kantor Kapanewon Ngaglik 1 > TPB Puskesmas Ngaglik 1 > TPB SMP Negeri 2 Ngaglik 1 > TPB SPBU Kaliurang 1 > TPB Wedangan Kampoeng 1 > TPB Yakkum 1 > TPB UII 1 > TPB Raminten 1 > TPB SMP N 4 Pakem 1 > TPB Terminal Pakem > TPB SMP N 4 Pakem 2 > TPB Raminten 2 >  TPB UII 2 > TPB Yakkum 2 >  TPB Wedangan Kampoeng 2 > TPB SPBU Kaliurang 2 >  TPB SMP Negeri 2 Ngaglik 2 > TPB Puskesmas Ngaglik 2 > TPB Kantor Kapanewon Ngaglik 2 >  TPB Simpang Palem Raya 2 >  TPB Terminal Bangunan > TPB Pasar Kolombo 2 > TPB Superindo Jakal 2 > TPB Graha Asus > TPB Biologi UGM > Halte RS Sardjito 2 > TPB FKG UGM 1 > Halte Vokasi UGM 1 > TPB Kosudgama > TPB UNY (Colombo) > TPB UNY Gejayan > TPB Grand Tjokro > TPB Santren > TanpaPlang SPBU Gejayan > Halte Terminal Condong Catur]]></description>
+        <description><![CDATA[Halte Terminal Condong Catur >TanpaPlang Super Dazzle Gejayan > TPB Susteran Novisiat > Halte Sanata Dharma > Halte Samirono > Halte Panti Rapih > TPB Vokasi UGM 2 > TPB FKG UGM 2 > Halte RS Sardjito 1 > TPB MM UGM > TPB Hotel Vidi > TPB Superindo Jakal 1 > TPB Pasar Kolombo 1 > TPB Terminal Bangunan > TPB Simpang Palem Raya 1 > TPB Kantor Kapanewon Ngaglik 1 > TPB Puskesmas Ngaglik 1 > TPB SMP Negeri 2 Ngaglik 1 > TPB SPBU Kaliurang 1 > TPB Wedangan Kampoeng 1 > TPB Yakkum 1 > TPB UII 1 > TPB Raminten 1 > TPB SMP N 4 Pakem 1 > TPB Terminal Pakem > TPB SMP N 4 Pakem 2 > TPB Raminten 2 >  TPB UII 2 > TPB Yakkum 2 >  TPB Wedangan Kampoeng 2 > TPB SPBU Kaliurang 2 >  TPB SMP Negeri 2 Ngaglik 2 > TPB Puskesmas Ngaglik 2 > TPB Kantor Kapanewon Ngaglik 2 >  TPB Simpang Palem Raya 2 >  TPB Terminal Bangunan > TPB Pasar Kolombo 2 > TPB Superindo Jakal 2 > TPB Graha Asus > TPB Biologi UGM > Halte RS Sardjito 2 > TPB FKG UGM 1 > Halte Vokasi UGM 1 > TPB Kosudgama > TPB UNY (Colombo) > TPB UNY Gejayan > TPB Grand Tjokro > TPB Santren > TanpaPlang SPBU Gejayan > Halte Terminal Condong Catur]]></description>
         <styleUrl>#line-A14D02-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4730,7 +4730,7 @@
       </Placemark>
       <Placemark>
         <name>(13) - Trans Jogja</name>
-        <description><![CDATA[TPB Pusat Kuliner Belut Godean > TPB Kantor Kapanewon Godean 2 > TPB Neutron Godean 2 > TanpaPlang Simpang Munggur 2 > TPB Kantor Kalurahan Sidoarum > TPB Nogotirto > TPB Giant Godean > TPB Mirota Godean 1 > TPB BKD DIY > TPB Pasar Kranggan Selatan > Halte Mangkubumi > TPB Grand Zuri > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Mirota Godean 2 >  TPB Dentes Ruko Godean > TPB Simpang Munggur1 > TPB Neutron Godean 1 > TPB Kantor Kapanewon Godean 1 > TPB Pusat Kuliner Belut Godean]]></description>
+        <description><![CDATA[TPB Pusat Kuliner Belut Godean > TPB Kantor Kapanewon Godean 2 > TPB Neutron Godean 2 > TanpaPlang Simpang Munggur 2 > TPB Kantor Kalurahan Sidoarum > TPB Nogotirto > TPB Giant Godean > TPB Mirota Godean 1 > TPB BKD DIY > TPB Pasar Kranggan Selatan > Halte Mangkubumi > TPB Grand Zuri > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan > Halte SMA N 1 > TPB SMP N 11 > TPB Mirota Godean 2 >  TPB Dentes Ruko Godean > TPB Simpang Munggur 1 > TPB Neutron Godean 1 > TPB Kantor Kapanewon Godean 1 > TPB Pusat Kuliner Belut Godean]]></description>
         <styleUrl>#line-BD9E3E-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4866,7 +4866,7 @@
       </Placemark>
       <Placemark>
         <name>(14) - Trans Jogja</name>
-        <description><![CDATA[Halte Bandara Adisujtipto > TPB KKP Yogyakarta > TPB PU PJN > TPB SMK N Depok 1 > TPB KUA Depok 1 > TPB MAN 2 Sleman 1 > TPB Budi Mulia 1 > TPB Kantor Kalurahan Wedomartani 1 > TPB Simpang Tajem Kabunan 1 > TPB Raya Kabunan 1 > TPB Rumah Sakit Mitra Paramedika 1 > TPB Pasar Jangkang 1 > TPB Puskesmas Ngemplak 1 > TPB SMA N 2 Ngaglik 1 > TanpaPlang Kantor Kalurahan Sukoharjo 1 >  TPB SD N Selomulyo 1 > TPB Yakkum 1 > TPB UII 1 > TPB Raminten 1 > TPB SMP N 4 Pakem 1 > TPB Terminal Pakem > TPB SMP N 4 Pakem 2 > TPB Raminten 2 > TPB UII 2 > TPB Yakkum 2 > TPB SD N Selomulyo 2 > TPB Kantor Kalurahan Sukoharjo > TPB SMA N 2 Ngaglik 2 > TPB Puskesmas Ngemplak 2 > TPB Pasar Jangkang 2 > TPB Rumah Sakit Mitra Paramedika 2 > TPB Raya Kabunan 2 > TPB Simpang Tajem Kabunan 2 > TPB Kantor Kalurahan Wedomartani 2 > TPB Budi Mulia 2 > TPB MAN 2 Sleman 2 > TPB KUA Depok 2 > TPB SMK N Depok 2 > TPB Disnaker > TPB Binamarga > Halte Maguwo > Halte Bandara Adisujtipto]]></description>
+        <description><![CDATA[Halte Bandara Adisutjipto > TPB KKP Yogyakarta > TPB PU PJN > TPB SMK N Depok 1 > TPB KUA Depok 1 > TPB MAN 2 Sleman 1 > TPB Budi Mulia 1 > TPB Kantor Kalurahan Wedomartani 1 > TPB Simpang Tajem Kabunan 1 > TPB Raya Kabunan 1 > TPB Rumah Sakit Mitra Paramedika 1 > TPB Pasar Jangkang 1 > TPB Puskesmas Ngemplak 1 > TPB SMA N 2 Ngaglik 1 > TanpaPlang Kantor Kalurahan Sukoharjo 1 >  TPB SD N Selomulyo 1 > TPB Yakkum 1 > TPB UII 1 > TPB Raminten 1 > TPB SMP N 4 Pakem 1 > TPB Terminal Pakem > TPB SMP N 4 Pakem 2 > TPB Raminten 2 > TPB UII 2 > TPB Yakkum 2 > TPB SD N Selomulyo 2 > TPB Kantor Kalurahan Sukoharjo 2 > TPB SMA N 2 Ngaglik 2 > TPB Puskesmas Ngemplak 2 > TPB Pasar Jangkang 2 > TPB Rumah Sakit Mitra Paramedika 2 > TPB Raya Kabunan 2 > TPB Simpang Tajem Kabunan 2 > TPB Kantor Kalurahan Wedomartani 2 > TPB Budi Mulia 2 > TPB MAN 2 Sleman 2 > TPB KUA Depok 2 > TPB SMK N Depok 2 > TPB Disnaker > TPB Binamarga > Halte Maguwo > Halte Bandara Adisutjipto]]></description>
         <styleUrl>#line-467800-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -5131,7 +5131,7 @@
       </Placemark>
       <Placemark>
         <name>(15) - Trans Jogja</name>
-        <description><![CDATA[TPB Palbapang > TPB SMA N 1 Bantul 1 > TPB Simpang Gose 1 > TPB Tugu Adipura Bantul > TPB Eks Stasiun KA Bantul 1 > TPB Pasar Bantul 1 > TPB BRI Cabang Bantul > TPB Karang Gede 1 > TPB Simpang Cepit 1 > TanpaPlang Kantor Kesbangpol 1 > TPB Simpang Kasongan 1 >  TPB Pasar Niten 1 > TPB Dongkelan 1 > TPB Pasty 1 > TPB SPBU Dukuh 1 > TPB Kampus UPP 2 FIP UNY > TPB Tejokusuman > Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo > TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TanpaPlang Gereja Pugeran > TPB SPBU Dukuh 2 > TPB Pasty 2 > TPB Dongkelan 2 > TPB Pasar Niten 2 > TPB Simpang Kasongan 2 >  TanpaPlang Kantor Kesbangpol 2 > TPB Simpang Cepit 2 > TPB Karang Gede 2 > TPB Kantor Kapanewon Bantul > TPB Pasar Bantul 2 > TPB Eks Stasiun Bantul 2 > TanpaPlang Polres Bantul > TPB Simpang Gose 2 > TPB SMA N 1 Bantul 2 > TPB Palbapang]]></description>
+        <description><![CDATA[TPB Palbapang > TPB SMA N 1 Bantul 1 > TPB Simpang Gose 1 > TPB Tugu Adipura Bantul > TPB Eks Stasiun KA Bantul 1 > TPB Pasar Bantul 1 > TPB BRI Cabang Bantul > TPB Karang Gede 1 > TPB Simpang Cepit 1 > TPB Kantor Kesbangpol 1 > TPB Simpang Kasongan 1 >  TPB Pasar Niten 1 > TPB Dongkelan 1 > TPB Pasty 1 > TPB SPBU Dukuh 1 > TPB Kampus UPP 2 FIP UNY > TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo > TPB Teras 2 > Halte Malioboro 1 (Inna Garuda) > Halte Malioboro 2 (Kepatihan) > Halte Malioboro 3 (Pasar Beringharjo) > Halte KHA Dahlan (PAPMI) > Halte Ngabean > TanpaPlang Gereja Pugeran > TPB SPBU Dukuh 2 > TPB Pasty 2 > TPB Dongkelan 2 > TPB Pasar Niten 2 > TPB Simpang Kasongan 2 >  TPB Kantor Kesbangpol 2 > TPB Simpang Cepit 2 > TPB Karang Gede 2 > TPB Kantor Kapanewon Bantul > TPB Pasar Bantul 2 > TPB Eks Stasiun KA Bantul 2 > TanpaPlang Polres Bantul > TPB Simpang Gose 2 > TPB SMA N 1 Bantul 2 > TPB Palbapang]]></description>
         <styleUrl>#line-9C1B14-3000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -5314,8 +5314,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Halte Bandara Adisujtipto</name>
-        <description><![CDATA[(1A) - Teman Bus   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB Makam Sorogenen<br><br>(1A) - Teman Bus<br>TPB Jl. Solo KR 1 > Halte Bandara Adisujtipto > TPB Hyundai<br><br>(1B) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB Hyundai<br><br>(1C) - Trans Jogja<br>TPB Jl. Solo KR > Halte Bandara Adisujtipto > TPB Makam Sorogenen<br><br>(3A) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB PU PJN<br><br>(3B) - Trans Jogja<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB Hyundai<br><br>(5B) - Trans Jogja<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB Hyundai<br><br>(14) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisujtipto > TPB KKP Yogyakarta]]></description>
+        <name>Halte Bandara Adisutjipto</name>
+        <description><![CDATA[(1A) - Teman Bus   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB Makam Sorogenen<br><br>(1A) - Teman Bus<br>TPB Jl. Solo KR 1 > Halte Bandara Adisutjipto > TPB Hyundai<br><br>(1B) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB Hyundai<br><br>(1C) - Trans Jogja<br>TPB Jl. Solo KR > Halte Bandara Adisutjipto > TPB Makam Sorogenen<br><br>(3A) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB PU PJN<br><br>(3B) - Trans Jogja<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB Hyundai<br><br>(5B) - Trans Jogja<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB Hyundai<br><br>(14) - Trans Jogja   = Start & Stop =<br>Halte  Maguwo > Halte Bandara Adisutjipto > TPB KKP Yogyakarta]]></description>
         <styleUrl>#icon-1532-3949AB-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -5475,7 +5475,7 @@
       </Placemark>
       <Placemark>
         <name>Halte KHA Dahlan (Ngadiwinatan)</name>
-        <description><![CDATA[(3B) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara<br><br>(6A) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(6B) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(8) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara<br><br>(10) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(15) - Trans Jogja<br>Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2]]></description>
+        <description><![CDATA[(3B) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara<br><br>(6A) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(6B) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(8) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara<br><br>(10) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2<br><br>(15) - Trans Jogja<br>Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2]]></description>
         <styleUrl>#icon-1532-3949AB-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -5595,7 +5595,7 @@
       </Placemark>
       <Placemark>
         <name>Halte Ngabean</name>
-        <description><![CDATA[(2B) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan<br><br>(3A) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Jokteng Kulon<br><br>(3B) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6A) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6A) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2<br><br>(6B) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6B) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2<br><br>(8) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB SPBU Dukuh 2<br><br>(8) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(9) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan<br><br>(9) - Trans Jogja<br>TPB  Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon<br><br>(10) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(10) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Mualimin 2<br><br>(11) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan<br><br>(11) - Trans Jogja<br>TPB Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon<br><br>(13) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan<br><br>(15) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > TPB KHA Dahlan (Ngadiwinatan)<br><br>(15) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TanpaPlang Gereja Pugeran]]></description>
+        <description><![CDATA[(2B) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan<br><br>(3A) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Jokteng Kulon<br><br>(3B) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6A) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6A) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2<br><br>(6B) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(6B) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2<br><br>(8) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB SPBU Dukuh 2<br><br>(8) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(9) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan<br><br>(9) - Trans Jogja<br>TPB  Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon<br><br>(10) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(10) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Muallimin 2<br><br>(11) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > TPB Pasar Serangan<br><br>(11) - Trans Jogja<br>TPB Letjen Suprapto > Halte Ngabean > TPB Jokteng Kulon<br><br>(13) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TPB Pasar Serangan<br><br>(15) - Trans Jogja<br>TPB Tejokusuman > Halte Ngabean > Halte KHA Dahlan (Ngadiwinatan)<br><br>(15) - Trans Jogja<br>Halte KHA Dahlan (PAPMI) > Halte Ngabean > TanpaPlang Gereja Pugeran]]></description>
         <styleUrl>#icon-1532-3949AB-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -5745,7 +5745,7 @@
       </Placemark>
       <Placemark>
         <name>Halte Senopati 2</name>
-        <description><![CDATA[(1A) - Teman Bus<br>Halte Malioboro 3 (Pasar Beringharjo) > Halte Senopati 2 > Halte Pakualaman<br><br>(2A) - Teman Bus<br>Halte Malioboro 3 (Pasar Beringharjo) > Halte Senopati 2 > TPB Purawisata 2<br><br>(6A) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(6B) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(10) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(15) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo]]></description>
+        <description><![CDATA[(1A) - Teman Bus<br>Halte Malioboro 3 (Pasar Beringharjo) > Halte Senopati 2 > Halte Pakualaman<br><br>(2A) - Teman Bus<br>Halte Malioboro 3 (Pasar Beringharjo) > Halte Senopati 2 > TPB Purawisata 2<br><br>(6A) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(6B) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(10) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo<br><br>(15) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > Halte Senopati 2 > TPB Suryotomo]]></description>
         <styleUrl>#icon-1532-3949AB-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -6058,7 +6058,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Bhayangkara</name>
-        <description><![CDATA[(1B) - Trans Jogja<br>Halte Senopati 1 > TPB Bhayangkara > TPB Pasar Pathuk<br><br>(3B) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk<br><br>(8) - Trans Jogja<br>TPB KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk]]></description>
+        <description><![CDATA[(1B) - Trans Jogja<br>Halte Senopati 1 > TPB Bhayangkara > TPB Pasar Pathuk<br><br>(3B) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk<br><br>(8) - Trans Jogja<br>Halte KHA Dahlan (Ngadiwinatan) > TPB Bhayangkara > TPB Pasar Pathuk]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -6278,7 +6278,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Eks Stasiun KA Bantul 2</name>
-        <description><![CDATA[(15) - Trans Jogja<br>TPB Pasar Bantul 2 > TPB Eks Stasiun Bantul 2 > TanpaPlang Polres Bantul]]></description>
+        <description><![CDATA[(15) - Trans Jogja<br>TPB Pasar Bantul 2 > TPB Eks Stasiun KA Bantul 2 > TanpaPlang Polres Bantul]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -6798,7 +6798,7 @@
       </Placemark>
       <Placemark>
         <name>TPB KKP Yogyakarta</name>
-        <description><![CDATA[(14) - Trans Jogja<br>Halte Bandara Adisujtipto > TPB KKP Yogyakarta > TPB PU PJN]]></description>
+        <description><![CDATA[(14) - Trans Jogja<br>Halte Bandara Adisutjipto > TPB KKP Yogyakarta > TPB PU PJN]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -6808,7 +6808,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Kledokan</name>
-        <description><![CDATA[(1B) - Trans Jogja<br>TPB Ruko Babarsari > TPB Kledokan > Halte RS Harrdjolukito<br><br>(7) - Trans Jogja<br>TPB Ruko Babarsari > TPB Kledokan > Halte RS Harrdjolukito]]></description>
+        <description><![CDATA[(1B) - Trans Jogja<br>TPB Ruko Babarsari > TPB Kledokan > Halte RS Hardjolukito<br><br>(7) - Trans Jogja<br>TPB Ruko Babarsari > TPB Kledokan > Halte RS Hardjolukito]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7137,7 +7137,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>TPB Mualimin 1</name>
+        <name>TPB Muallimin 1</name>
         <description><![CDATA[(6A) - Trans Jogja<br>TPB UPY > TPB Muallimin 1 > TPB Tejokusuman<br><br>(6B) - Trans Jogja<br>TPB Pasar Legi 2 > TPB Muallimin 1 > TPB Tejokusuman<br><br>(10) - Trans Jogja<br>TPB SMP Muhammadiyah 3 1 >TPB Muallimin 1 > TPB Tejokusuman]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
@@ -7147,8 +7147,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>TPB Mualimin 2</name>
-        <description><![CDATA[(6A) - Trans Jogja<br>Halte Ngabean > TPB Mualimin 2 > TPB Pasar Legi 1<br><br>(6B) - Trans Jogja<br>Halte Ngabean > TPB Mualimin 2 > TPB Superindo Sonosewu<br><br>(10) - Trans Jogja<br>Halte Ngabean > TPB Mualimin 2 > TanpaPlang SMP Muhammadiyah 3 2]]></description>
+        <name>TPB Muallimin 2</name>
+        <description><![CDATA[(6A) - Trans Jogja<br>Halte Ngabean > TPB Muallimin 2 > TPB Pasar Legi 1<br><br>(6B) - Trans Jogja<br>Halte Ngabean > TPB Muallimin 2 > TPB Superindo Sonosewu<br><br>(10) - Trans Jogja<br>Halte Ngabean > TPB Muallimin 2 > TanpaPlang SMP Muhammadiyah 3 2]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7278,7 +7278,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Pasar Bantul 2</name>
-        <description><![CDATA[(15) - Trans Jogja<br>TPB Kantor Kapanewon Bantul > TPB Pasar Bantul 2 > TPB Eks Stasiun Bantul 2]]></description>
+        <description><![CDATA[(15) - Trans Jogja<br>TPB Kantor Kapanewon Bantul > TPB Pasar Bantul 2 > TPB Eks Stasiun KA Bantul 2]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7378,7 +7378,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Pasar Kolombo 1</name>
-        <description><![CDATA[(12) - Teman Bus<br>TPB Superindo Jakal 1 > TPB Pasar Kolombo 1 > TPB PLN Gardu Induk 1]]></description>
+        <description><![CDATA[(12) - Teman Bus<br>TPB Superindo Jakal 1 > TPB Pasar Kolombo 1 > TPB Terminal Bangunan]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -7418,7 +7418,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Pasar Legi 1</name>
-        <description><![CDATA[(6A) - Trans Jogja<br>TPB Mualimin 2 > TPB Pasar Legi 1 > TPB SMK Seni 1]]></description>
+        <description><![CDATA[(6A) - Trans Jogja<br>TPB Muallimin 2 > TPB Pasar Legi 1 > TPB SMK Seni 1]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -8258,7 +8258,7 @@
       </Placemark>
       <Placemark>
         <name>TPB SMP Muhammadiyah 3 1</name>
-        <description><![CDATA[(10) - Trans Jogja<br>TanpaPlang Museum Bahari 2 > TPB SMP Muhammadiyah 3 1 > TPB Mualimin 1]]></description>
+        <description><![CDATA[(10) - Trans Jogja<br>TanpaPlang Museum Bahari 2 > TPB SMP Muhammadiyah 3 1 > TPB Muallimin 1]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -8468,7 +8468,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Superindo Sonosewu</name>
-        <description><![CDATA[(6B) - Trans Jogja<br>TPB Mualimin 2 > TPB Superindo Sonosewu > TPB Bayeman 1]]></description>
+        <description><![CDATA[(6B) - Trans Jogja<br>TPB Muallimin 2 > TPB Superindo Sonosewu > TPB Bayeman 1]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -8688,7 +8688,7 @@
       </Placemark>
       <Placemark>
         <name>TPB Tugu Adipura Bantul</name>
-        <description><![CDATA[(15) - Trans Jogja<br>TPB SMA N 1 Bantul 1 > TPB Tugu Adipura Bantul > TPB Eks Stasiun Bantul 1]]></description>
+        <description><![CDATA[(15) - Trans Jogja<br>TPB SMA N 1 Bantul 1 > TPB Tugu Adipura Bantul > TPB Eks Stasiun KA Bantul 1]]></description>
         <styleUrl>#icon-1532-7CB342-labelson</styleUrl>
         <Point>
           <coordinates>
@@ -9111,7 +9111,7 @@
       </Placemark>
       <Placemark>
         <name>TanpaPlang SMP Muhammadiyah 3 2</name>
-        <description><![CDATA[(10) - Trans Jogja<br>TPB Mualimin 2 > TanpaPlang SMP Muhammadiyah 3 2 > TPB Museum Bahari 1]]></description>
+        <description><![CDATA[(10) - Trans Jogja<br>TPB Muallimin 2 > TanpaPlang SMP Muhammadiyah 3 2 > TPB Museum Bahari 1]]></description>
         <styleUrl>#icon-1532-FF5252-labelson</styleUrl>
         <Point>
           <coordinates>
